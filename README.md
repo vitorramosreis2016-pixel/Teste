@@ -30,6 +30,13 @@ Um espaço para pequenos experimentos com linguagens de programação, sistemas 
 | R | [hello.R](r/hello.R) |
 | Julia | [hello.jl](julia/hello.jl) |
 | Zig | [main.zig](zig/main.zig) |
+| Scala | [Hello.scala](scala/Hello.scala) |
+| Elixir | [hello.exs](elixir/hello.exs) |
+| Haskell | [Main.hs](haskell/Main.hs) |
+| Erlang | [hello.erl](erlang/hello.erl) |
+| Perl | [hello.pl](perl/hello.pl) |
+| Assembly (x86-64 Linux) | [hello.asm](assembly/hello.asm) |
+| Objective-C | [main.m](objective-c/main.m) |
 | HTML | [index.html](web/index.html) |
 | CSS | [style.css](web/style.css) |
 | GLSL | [hello.frag](glsl/hello.frag) |
