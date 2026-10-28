@@ -23,6 +23,13 @@ Um espaço para pequenos experimentos com linguagens de programação, sistemas 
 | CMake | [CMakeLists.txt](cpp/CMakeLists.txt) |
 | JavaScript | [hello.js](javascript/hello.js) |
 | TypeScript | [hello.ts](typescript/hello.ts) |
+| C# | [Program.cs](csharp/Program.cs) |
+| Kotlin | [Main.kt](kotlin/Main.kt) |
+| Swift | [main.swift](swift/main.swift) |
+| Dart | [main.dart](dart/main.dart) |
+| R | [hello.R](r/hello.R) |
+| Julia | [hello.jl](julia/hello.jl) |
+| Zig | [main.zig](zig/main.zig) |
 | HTML | [index.html](web/index.html) |
 | CSS | [style.css](web/style.css) |
 | GLSL | [hello.frag](glsl/hello.frag) |
