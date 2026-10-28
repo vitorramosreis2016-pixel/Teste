@@ -37,6 +37,13 @@ Um espaço para pequenos experimentos com linguagens de programação, sistemas 
 | Perl | [hello.pl](perl/hello.pl) |
 | Assembly (x86-64 Linux) | [hello.asm](assembly/hello.asm) |
 | Objective-C | [main.m](objective-c/main.m) |
+| F# | [Program.fs](fsharp/Program.fs) |
+| OCaml | [hello.ml](ocaml/hello.ml) |
+| Clojure | [core.clj](clojure/src/hello/core.clj) |
+| Prolog | [hello.pl](prolog/hello.pl) |
+| COBOL | [hello.cob](cobol/hello.cob) |
+| Fortran 77 | [hello.f](fortran77/hello.f) |
+| Verilog | [hello.v](verilog/hello.v) |
 | HTML | [index.html](web/index.html) |
 | CSS | [style.css](web/style.css) |
 | GLSL | [hello.frag](glsl/hello.frag) |
