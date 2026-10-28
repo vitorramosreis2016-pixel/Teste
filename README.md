@@ -29,6 +29,18 @@ Um espaço para pequenos experimentos com linguagens de programação, sistemas 
 | Shell / Bash | [hello.sh](shell/hello.sh) |
 | GDScript (Godot) | [main.gd](godot/main.gd) |
 | Roff / man page | [hello.1](man/hello.1) |
+| Python | [hello.py](python/hello.py) |
+| Fortran | [hello.f90](fortran/hello.f90) |
+| Rust | [hello.rs](rust/hello.rs) |
+| Go | [main.go](go/main.go) |
+| SQL | [example.sql](sql/example.sql) |
+| YAML | [settings.yaml](config/settings.yaml) |
+| TOML | [settings.toml](config/settings.toml) |
+| PowerShell | [hello.ps1](powershell/hello.ps1) |
+| Lua | [hello.lua](lua/hello.lua) |
+| PHP | [hello.php](php/hello.php) |
+| Ruby | [hello.rb](ruby/hello.rb) |
+| Docker | [Dockerfile](docker/Dockerfile) |
 
 ## 🚀 Quick starts
 
@@ -54,6 +66,28 @@ java -cp java HelloWorld
 ### JavaScript
 ```sh
 node javascript/hello.js
+```
+
+### Python
+```sh
+python3 python/hello.py
+```
+
+### Fortran
+```sh
+gfortran fortran/hello.f90 -o hello_fortran
+./hello_fortran
+```
+
+### Rust
+```sh
+rustc rust/hello.rs -o hello_rust
+./hello_rust
+```
+
+### Go
+```sh
+go run go/main.go
 ```
 
 ### HTML / CSS / JavaScript
