@@ -1,0 +1,7 @@
+[project]
+name = "Teste"
+purpose = "programming experiments"
+language = "pt-BR"
+
+[examples]
+languages = ["Python", "Fortran", "Rust", "Go"]
