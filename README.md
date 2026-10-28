@@ -22,6 +22,7 @@ Um espaço para pequenos experimentos com linguagens de programação, sistemas 
 | C++ | [hello.cpp](cpp/hello.cpp) |
 | CMake | [CMakeLists.txt](cpp/CMakeLists.txt) |
 | JavaScript | [hello.js](javascript/hello.js) |
+| TypeScript | [hello.ts](typescript/hello.ts) |
 | HTML | [index.html](web/index.html) |
 | CSS | [style.css](web/style.css) |
 | GLSL | [hello.frag](glsl/hello.frag) |
@@ -66,6 +67,11 @@ java -cp java HelloWorld
 ### JavaScript
 ```sh
 node javascript/hello.js
+```
+
+### TypeScript
+```sh
+npx tsx typescript/hello.ts
 ```
 
 ### Python
