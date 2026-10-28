@@ -1,18 +1,10 @@
-🧪 Test Repository | Repositório de Testes
+# 🧪 Test Repository | Repositório de Testes
 
-A repository for random experiments with programming languages, build systems, and various technologies.
+A place for small experiments with programming languages, build systems, and different technologies.
 
-Um repositório para experimentos aleatórios com linguagens de programação, sistemas de compilação e tecnologias diversas.
+Um espaço para pequenos experimentos com linguagens de programação, sistemas de compilação e tecnologias diversas.
 
-Un repositorio para experimentar con lenguajes de programación, sistemas de compilación y diversas tecnologías.
-
-一个用于尝试各种编程语言、构建系统和不同技术的代码仓库。
-
-विभिन्न प्रोग्रामिंग भाषाओं, बिल्ड सिस्टम और तकनीकों के साथ प्रयोग करने के लिए एक रिपॉज़िटरी।
-
----
-
-🌍 Languages | Idiomas | 语言 | भाषाएँ
+## 🌍 Languages | Idiomas
 
 - 🇧🇷 Português
 - 🇺🇸 English
@@ -20,8 +12,58 @@ Un repositorio para experimentar con lenguajes de programación, sistemas de com
 - 🇨🇳 中文（普通话）
 - 🇮🇳 हिन्दी
 
-🧪 Purpose | Objetivo
+## 🧰 Examples in this repository
 
-This repository is just for testing. It may contain random source files, small experiments, and examples written in different programming languages.
+| Technology | Example |
+|---|---|
+| Java | [HelloWorld.java](java/HelloWorld.java) |
+| C | [hello.c](c/hello.c) |
+| Make | [Makefile](c/Makefile) |
+| C++ | [hello.cpp](cpp/hello.cpp) |
+| CMake | [CMakeLists.txt](cpp/CMakeLists.txt) |
+| JavaScript | [hello.js](javascript/hello.js) |
+| HTML | [index.html](web/index.html) |
+| CSS | [style.css](web/style.css) |
+| GLSL | [hello.frag](glsl/hello.frag) |
+| Jupyter Notebook | [experiments.ipynb](notebooks/experiments.ipynb) |
+| Shell / Bash | [hello.sh](shell/hello.sh) |
+| GDScript (Godot) | [main.gd](godot/main.gd) |
+| Roff / man page | [hello.1](man/hello.1) |
 
-Este repositório é apenas para testes. Pode conter arquivos de código aleatórios, pequenos experimentos e exemplos escritos em diferentes linguagens de programação.
+## 🚀 Quick starts
+
+### C
+```sh
+cc -Wall -Wextra -std=c11 c/hello.c -o hello
+./hello
+```
+
+### C++
+```sh
+cmake -S cpp -B build
+cmake --build build
+./build/hello_cpp
+```
+
+### Java
+```sh
+javac java/HelloWorld.java
+java -cp java HelloWorld
+```
+
+### JavaScript
+```sh
+node javascript/hello.js
+```
+
+### HTML / CSS / JavaScript
+Open [web/index.html](web/index.html) in a browser.
+
+### Shell
+```sh
+bash shell/hello.sh
+```
+
+## 🎯 Purpose
+
+This repository is for learning and testing. It may contain small examples, source files, notes, and experiments. The examples are intentionally simple starting points, not production-ready applications.
