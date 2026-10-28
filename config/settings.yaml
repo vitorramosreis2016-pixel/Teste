@@ -1,0 +1,10 @@
+project:
+  name: Teste
+  purpose: programming experiments
+  language: pt-BR
+
+examples:
+  - Python
+  - Fortran
+  - Rust
+  - Go
